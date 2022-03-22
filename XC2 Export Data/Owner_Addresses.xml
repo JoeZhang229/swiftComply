@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<Table_Owner_Addresses Sequenceno="1196" Total="75">
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000011</Owner_Address_ID>
+      <Owner_Name>Metro Truck &amp;#38; Auto Service Center</Owner_Name>
+      <Owner_Name_2>2</Owner_Name_2>
+      <Owner_Address_1>123 Nimrod Dr</Owner_Address_1>
+      <Owner_Address_2>San Marino</Owner_Address_2>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>236-9874</Owner_Address_Phone>
+      <Owner_Address_Phone_AreaCode>696</Owner_Address_Phone_AreaCode>
+      <Owner_Contact_Name_1>Prudence</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Randolphson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000024</Owner_Address_ID>
+      <Owner_Name>Polymedica Industries Inc</Owner_Name>
+      <Owner_Address_1>2672 N Hornsea Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-6400</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-3240</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Eugene</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Ward</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000032</Owner_Address_ID>
+      <Owner_Name>Sheridan Sanitation District #2</Owner_Name>
+      <Owner_Address_1>7022 N Ryan Meadow Pl</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-5115</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-3104</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Ed</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Wright</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000039</Owner_Address_ID>
+      <Owner_Name>Peck Doran P C</Owner_Name>
+      <Owner_Address_1>1556 N Inverness St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-8269</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-3379</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Bernardo</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Collins</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000078</Owner_Address_ID>
+      <Owner_Name>T-M Service CO</Owner_Name>
+      <Owner_Address_1>1328 S Dogwood Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-0940</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-7345</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Ariel</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Carter</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000094</Owner_Address_ID>
+      <Owner_Name>Mex Imports</Owner_Name>
+      <Owner_Address_1>6471 S Chant CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-6148</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-8479</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Felton</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Torres</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000095</Owner_Address_ID>
+      <Owner_Name>Tafoya Electric</Owner_Name>
+      <Owner_Address_1>1795 S Church View CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-0733</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-2416</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Barry</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Young</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000168</Owner_Address_ID>
+      <Owner_Name>Taylors Liquors</Owner_Name>
+      <Owner_Address_1>445 S Perkins Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-8535</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1544</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Billy</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Coleman</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000170</Owner_Address_ID>
+      <Owner_Name>North Star Liquor</Owner_Name>
+      <Owner_Address_1>7698 E Hunters Bnd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-0307</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-2386</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Darrell</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Turner</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000173</Owner_Address_ID>
+      <Owner_Name>LA Salle Partners</Owner_Name>
+      <Owner_Address_1>5622 E Sterling Glen Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-2473</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-5867</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Claudio</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Perez</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000194</Owner_Address_ID>
+      <Owner_Name>Screenplay Video Centers</Owner_Name>
+      <Owner_Address_1>7805 S Archer Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-9446</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-3397</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Wiley</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Stewart</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000196</Owner_Address_ID>
+      <Owner_Name>Willie&apos;s Place</Owner_Name>
+      <Owner_Address_1>8488 S Strathmoore Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-9047</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 232-9562</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Dewayne</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hill</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000197</Owner_Address_ID>
+      <Owner_Name>Malecall II</Owner_Name>
+      <Owner_Address_1>9044 S Kelsey CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-5402</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 232-9018</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Theodore</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Cooper</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000203</Owner_Address_ID>
+      <Owner_Name>World Computer Corporation</Owner_Name>
+      <Owner_Address_1>7816 S Yankee St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-0598</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-9838</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Cole</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Jones</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000211</Owner_Address_ID>
+      <Owner_Name>Seniors in Community Living Inc</Owner_Name>
+      <Owner_Address_1>9095 S Greyson Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-8654</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-2699</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Eldon</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Roberts</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000220</Owner_Address_ID>
+      <Owner_Name>Specialty Systems</Owner_Name>
+      <Owner_Address_1>785 S Wallsend CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-2708</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1588</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Jackie</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Diaz</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000240</Owner_Address_ID>
+      <Owner_Name>Mercer William M Incorporated</Owner_Name>
+      <Owner_Address_1>5707 S Chatham Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-6252</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-3992</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Rashad</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Martin</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000241</Owner_Address_ID>
+      <Owner_Name>Sears J L &amp;#38; Associates Real Estate</Owner_Name>
+      <Owner_Address_1>7323 S Fairway Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-1392</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-3696</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Roman</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Perez</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000242</Owner_Address_ID>
+      <Owner_Name>Lamar Ventures</Owner_Name>
+      <Owner_Address_1>2941 S Adara Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-8826</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-2791</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Tyrell</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Morris</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000245</Owner_Address_ID>
+      <Owner_Name>Midwest Sales CO</Owner_Name>
+      <Owner_Address_1>4557 S Frank St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-6128</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-2779</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Dusty</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Kelly</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000255</Owner_Address_ID>
+      <Owner_Name>A Flag House</Owner_Name>
+      <Owner_Address_1>1583 W Kim Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-3933</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1569</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Conrad</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hughes</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000287</Owner_Address_ID>
+      <Owner_Name>Riley Income Tax Service</Owner_Name>
+      <Owner_Address_1>1710 W Liberty Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-3324</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-0107</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Moses</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Griffin</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000291</Owner_Address_ID>
+      <Owner_Name>Redding Equipment CO</Owner_Name>
+      <Owner_Address_1>2230 S Vinmar Way</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-3927</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-5235</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Elroy</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Kelly</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000308</Owner_Address_ID>
+      <Owner_Name>Rains-Flo Packings</Owner_Name>
+      <Owner_Address_1>5102 E Clark-Shaw Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-7959</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-2024</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Ezekiel</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Bryant</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000320</Owner_Address_ID>
+      <Owner_Name>Weber Management Company</Owner_Name>
+      <Owner_Address_1>6679 S Cross Creek CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-7096</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-8996</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Chad</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Howard</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000323</Owner_Address_ID>
+      <Owner_Name>Mr Smith&apos;s Restaurant</Owner_Name>
+      <Owner_Address_1>4370 S Robin Hood Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-7430</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-4545</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Vicente</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Kelly</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000335</Owner_Address_ID>
+      <Owner_Name>Academy T V Service</Owner_Name>
+      <Owner_Address_1>7704 E Quarter Way</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-5107</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 232-9865</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Jc</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Sanders</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000345</Owner_Address_ID>
+      <Owner_Name>Pacific Jewelry &amp;#38; Loan CO</Owner_Name>
+      <Owner_Address_1>2566 S Main Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-8816</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-7356</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Rich</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>White</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000368</Owner_Address_ID>
+      <Owner_Name>Mattress Factory The</Owner_Name>
+      <Owner_Address_1>6732 S Olde Dublin Woods Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-4110</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-0768</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Ernesto</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Torres</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000389</Owner_Address_ID>
+      <Owner_Name>Labriola Machine</Owner_Name>
+      <Owner_Address_1>1577 S Meadow Ash Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-6697</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-7514</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Marty</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Roberts</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000401</Owner_Address_ID>
+      <Owner_Name>World Wide Funding</Owner_Name>
+      <Owner_Address_1>197 W Maxwell Ave</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-4888</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-4924</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Otto</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Allen</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000412</Owner_Address_ID>
+      <Owner_Name>Ollie&apos;s Roundup</Owner_Name>
+      <Owner_Address_1>9451 S Banbridge Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-6142</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1058</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Vern</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Thompson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000444</Owner_Address_ID>
+      <Owner_Name>Lingerie Etc</Owner_Name>
+      <Owner_Address_1>1760 S Cuyuga Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-0973</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-6458</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Anibal</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Bailey</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000445</Owner_Address_ID>
+      <Owner_Name>Southwest Radiographics</Owner_Name>
+      <Owner_Address_1>9458 S Rolling Ridge Way</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-7874</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 232-9265</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Pablo</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Cox</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000451</Owner_Address_ID>
+      <Owner_Name>Mile High Lounge</Owner_Name>
+      <Owner_Address_1>7002 S Village Green Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-8103</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-7056</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Nathaniel</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hall</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000459</Owner_Address_ID>
+      <Owner_Name>Omelet House Restaurant</Owner_Name>
+      <Owner_Address_1>709 W Wallace Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-2210</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-6845</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Refugio</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Butler</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000461</Owner_Address_ID>
+      <Owner_Name>Wej Management Corp</Owner_Name>
+      <Owner_Address_1>4424 S Red Barn St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-7510</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-4638</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Merrill</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Scott</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000470</Owner_Address_ID>
+      <Owner_Name>Metro Dishwasher</Owner_Name>
+      <Owner_Address_1>3557 W Lawton St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-2782</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 236-0202</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Rodrick</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Davis</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000475</Owner_Address_ID>
+      <Owner_Name>Advantage Brokers</Owner_Name>
+      <Owner_Address_1>5120 S Webb St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-4042</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-4353</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Jackie</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Anderson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000490</Owner_Address_ID>
+      <Owner_Name>Boulder Mtn Overcharge Claim Audit</Owner_Name>
+      <Owner_Address_1>7930 S Mays Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-8448</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-4462</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Hal</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Griffin</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000574</Owner_Address_ID>
+      <Owner_Name>R L Plimpton Assoc Inc</Owner_Name>
+      <Owner_Address_1>7480 N Lakehurst CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-4000</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-3044</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Dean</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Williams</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000595</Owner_Address_ID>
+      <Owner_Name>29th Ave Liquor</Owner_Name>
+      <Owner_Address_1>4880 N Beech Ridge Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-5894</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-3925</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Jerrell</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hill</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000601</Owner_Address_ID>
+      <Owner_Name>Park Mayfair Home Owners Assoc</Owner_Name>
+      <Owner_Address_1>6931 W Meadow Bend Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-7493</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-6694</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Dylan</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hall</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000605</Owner_Address_ID>
+      <Owner_Name>So Fine Limousine Service</Owner_Name>
+      <Owner_Address_1>3947 W Greenlawn Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-6245</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1903</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Norberto</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Bell</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000606</Owner_Address_ID>
+      <Owner_Name>National Certification Board Perioperativ</Owner_Name>
+      <Owner_Address_1>4604 W Moliana CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-1888</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1975</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Arnold</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Richardson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000609</Owner_Address_ID>
+      <Owner_Name>Opus One Designs</Owner_Name>
+      <Owner_Address_1>3166 S Guard-Well St</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-8061</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-5061</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Warren</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Alexander</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000626</Owner_Address_ID>
+      <Owner_Name>Meridian Cafe-Bakery</Owner_Name>
+      <Owner_Address_1>5750 N Colleton Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-0776</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-7681</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Hollis</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hernandez</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000632</Owner_Address_ID>
+      <Owner_Name>Steele Elementary School</Owner_Name>
+      <Owner_Address_1>6916 W Crooked Elm CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-6501</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-0139</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Jeramy</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Kelly</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000640</Owner_Address_ID>
+      <Owner_Name>Maria Elena&apos;s Mexican Restaurant</Owner_Name>
+      <Owner_Address_1>5026 S Library Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-6714</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-1702</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Thurman</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Bell</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000660</Owner_Address_ID>
+      <Owner_Name>New Again Auto Re-Con Systems</Owner_Name>
+      <Owner_Address_1>881 S Fawn Meadow CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-9896</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 233-0970</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Eduardo</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Griffin</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000695</Owner_Address_ID>
+      <Owner_Name>Little Ceasars Pizza</Owner_Name>
+      <Owner_Address_1>7414 N Wellington Blvd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-3766</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-6546</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Avery</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Gray</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000698</Owner_Address_ID>
+      <Owner_Name>Splash of Color</Owner_Name>
+      <Owner_Address_1>464 S Kodiak CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-6664</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-0341</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Bruno</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Ramirez</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000705</Owner_Address_ID>
+      <Owner_Name>National Lender Services Inc</Owner_Name>
+      <Owner_Address_1>5450 N Grace CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-7407</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 232-8538</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Harley</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Phillips</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000726</Owner_Address_ID>
+      <Owner_Name>Steward Painting &amp;#38; Restoration</Owner_Name>
+      <Owner_Address_1>3727 W Carter&apos;s Corner Rd</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-8902</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-1607</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Israel</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>King</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000736</Owner_Address_ID>
+      <Owner_Name>Toys-R-Us</Owner_Name>
+      <Owner_Address_1>515 W Vinson Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-3655</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-9642</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Brock</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Nelson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000763</Owner_Address_ID>
+      <Owner_Name>Quality Surface of Metro Snoqualamish</Owner_Name>
+      <Owner_Address_1>7359 W Seay CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-5147</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-0895</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Del</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Bailey</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000774</Owner_Address_ID>
+      <Owner_Name>Real Property Valuations Inc</Owner_Name>
+      <Owner_Address_1>9089 S Linksway Dr</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-5955</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-8790</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Sherman</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Davis</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000775</Owner_Address_ID>
+      <Owner_Name>Mann Robert Oriental</Owner_Name>
+      <Owner_Address_1>1637 W Ketterington Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-2804</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-7256</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Tom</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hayes</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000776</Owner_Address_ID>
+      <Owner_Name>Xelco Collection Service</Owner_Name>
+      <Owner_Address_1>4535 Willow Park CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 234-7943</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-6179</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Jeremy</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Price</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000782</Owner_Address_ID>
+      <Owner_Name>Meridian Travel Ltd</Owner_Name>
+      <Owner_Address_1>8119 N Lanetta Ln</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 236-6102</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 234-7912</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Johnnie</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Torres</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000797</Owner_Address_ID>
+      <Owner_Name>A-Quest Electronics</Owner_Name>
+      <Owner_Address_1>5289 W Preston Mill CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-2761</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-0545</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Bobby</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Flores</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000891</Owner_Address_ID>
+      <Owner_Name>Rainbow Rebuilders</Owner_Name>
+      <Owner_Address_1>6694 S Abbotsford Way</Owner_Address_1>
+      <Owner_Address_2>Median/26-632-440-#21</Owner_Address_2>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 233-8027</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-2281</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Kim</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Cox</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000895</Owner_Address_ID>
+      <Owner_Name>Lakewood Family Medical Clinic Pc</Owner_Name>
+      <Owner_Address_1>7846 Champions CT</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>WA</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+      <Owner_Address_Phone>(696) 235-5942</Owner_Address_Phone>
+      <Owner_Address_FAX>(696) 235-6180</Owner_Address_FAX>
+      <Owner_Entry_Date>2007-05-03T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>1</Entry_By_User_ID>
+      <Owner_Contact_Name_1>Terry</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Perez</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000916</Owner_Address_ID>
+      <Owner_Name>Academy Veterinary Hospital</Owner_Name>
+      <Owner_Address_1>8350 Lighthouse CT</Owner_Address_1>
+      <Owner_Address_Phone>(696) 235-7924</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Shelton</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Cooper</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000945</Owner_Address_ID>
+      <Owner_Name>Bethesda At St Anthony Hospital North</Owner_Name>
+      <Owner_Address_1>1802 Woodcreek Pl</Owner_Address_1>
+      <Owner_Address_Phone>(696) 237-5648</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Newton</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Robinson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000962</Owner_Address_ID>
+      <Owner_Name>Children&apos;s Hospital</Owner_Name>
+      <Owner_Address_1>1552 Naples National CT</Owner_Address_1>
+      <Owner_Address_Phone>(696) 237-6089</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Cleo</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Hernandez</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000987</Owner_Address_ID>
+      <Owner_Name>U S Hospitality Consultant</Owner_Name>
+      <Owner_Address_1>2714 Woodsfield CT</Owner_Address_1>
+      <Owner_Address_Phone>(696) 237-1010</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Eddie</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Mitchell</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1000992</Owner_Address_ID>
+      <Owner_Name>Echosphere Corporation</Owner_Name>
+      <Owner_Address_1>7210 West View Dr</Owner_Address_1>
+      <Owner_Address_Phone>(696) 234-9658</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Mauro</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Edwards</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001022</Owner_Address_ID>
+      <Owner_Name>Hospital Shared Services Warehouse</Owner_Name>
+      <Owner_Address_1>5998 Buena Park Dr</Owner_Address_1>
+      <Owner_Address_Phone>(696) 234-7735</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Lonnie</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Jones</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001027</Owner_Address_ID>
+      <Owner_Name>Hospitality Flowers &amp;#38; Gifts</Owner_Name>
+      <Owner_Address_1>6725 Sheridan St</Owner_Address_1>
+      <Owner_Address_Phone>(696) 237-6119</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Rodney</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Bailey</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001029</Owner_Address_ID>
+      <Owner_Name>Hospitality Group Inc The</Owner_Name>
+      <Owner_Address_1>429 Cali Glen Ln</Owner_Address_1>
+      <Owner_Address_Phone>(696) 235-2476</Owner_Address_Phone>
+      <Owner_Contact_Name_1>Aron</Owner_Contact_Name_1>
+      <Owner_Contact_Name_2>Wilson</Owner_Contact_Name_2>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001317</Owner_Address_ID>
+      <Owner_Name>Resolution Trust Corp</Owner_Name>
+      <Owner_Entry_Date>2012-02-16T00:00:00</Owner_Entry_Date>
+      <Entry_By_User_ID>5</Entry_By_User_ID>
+      <Owner_Modified_Date>2012-02-16T00:00:00</Owner_Modified_Date>
+      <Modified_By_User_ID>5</Modified_By_User_ID>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001318</Owner_Address_ID>
+      <Owner_Name>Greg&apos;s House of Pancakes</Owner_Name>
+      <Owner_Address_1>1435 N El Monte BLVD</Owner_Address_1>
+      <Owner_Address_City>Snoqualamish</Owner_Address_City>
+      <Owner_Address_State>Wa</Owner_Address_State>
+      <Owner_Address_Zip_Code>98215</Owner_Address_Zip_Code>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001319</Owner_Address_ID>
+      <Owner_Name>Bill&apos;s Balloon Bonanza</Owner_Name>
+      <Owner_Address_1>1111 Helium Way</Owner_Address_1>
+      <Owner_Address_City>San Rafael</Owner_Address_City>
+      <Owner_Address_State>CA</Owner_Address_State>
+      <Owner_Address_Zip_Code>94901</Owner_Address_Zip_Code>
+      <Owner_Address_Email>banana@fullofhotair.com</Owner_Address_Email>
+   </T_Owner_Addresses>
+   <T_Owner_Addresses>
+      <Owner_Address_ID>1001321</Owner_Address_ID>
+      <Owner_Name>Willie</Owner_Name>
+      <Owner_Address_1>12212</Owner_Address_1>
+   </T_Owner_Addresses>
+</Table_Owner_Addresses>
