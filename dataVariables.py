@@ -10,4 +10,4 @@ fieldNamesList = ['property_id', 'account_number', 'name', 'address1',
                   'city', 'state_prov', 'postal_code', 'primary_contact_id']
 
 importData('./XC2 Export Data/Facility.xml',
-           dataList, fieldNamesList, 'properties.csv')
+           dataList, fieldNamesList, './SC Backflow CSV Import Examples/properties.csv')

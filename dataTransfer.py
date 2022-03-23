@@ -2,14 +2,14 @@ import csv
 import xml.etree.ElementTree as ET
 
 
-def importData(filePath, dataList, fieldNamesList, csvFile, results=[]):
+def importData(importFilePath, dataList, fieldNamesList, csvFilePath, results=[]):
     # import data from XML based on dataList entries
     for dataType in dataList:
-        results.append(dataHelper(filePath, dataType))
-    with open(csvFile, 'r') as csv_file:
+        results.append(dataHelper(importFilePath, dataType))
+    with open(csvFilePath, 'r') as csv_file:
         csvReader = csv.DictReader(csv_file)
         # write csv based on headers in fieldnames
-        with open(f"new_{csvFile}", 'w') as newFile:
+        with open("new_properties.csv", 'w') as newFile:
             fieldnames = fieldNamesList
             # extrasaction ignores headers not included in fieldnames
             csvWriter = csv.DictWriter(
