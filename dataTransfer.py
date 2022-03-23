@@ -2,9 +2,9 @@ import csv
 import xml.etree.ElementTree as ET
 
 
-def importData(importFilePath, dataList, fieldNamesList, csvFilePath, results=[]):
-    # import data from XML based on dataList entries
-    for dataType in dataList:
+def importData(importFilePath, importDataList, fieldNamesList, csvFilePath, results=[]):
+    # import data from XML based on importDataList entries
+    for dataType in importDataList:
         results.append(dataHelper(importFilePath, dataType))
     with open(csvFilePath, 'r') as csv_file:
         csvReader = csv.DictReader(csv_file)
@@ -17,11 +17,14 @@ def importData(importFilePath, dataList, fieldNamesList, csvFilePath, results=[]
             csvWriter.writeheader()
             for line in csvReader:
                 csvWriter.writerow(line)
+    # returns results, you can see what you're importing in an list
     return results
 
 
 # helper function based on XML header
-def dataHelper(file, dataType, results=[]):
+def dataHelper(file, dataType):
+    # results is initialized here to prevent repeated results lists
+    results = []
     # elementTree obj
     tree = ET.parse(file)
     root = tree.getroot()
