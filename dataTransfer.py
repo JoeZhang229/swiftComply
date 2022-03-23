@@ -3,13 +3,15 @@ import xml.etree.ElementTree as ET
 
 
 def importData(filePath, dataList, fieldNamesList, csvFile, results=[]):
+    # import data from XML based on dataList entries
     for dataType in dataList:
         results.append(dataHelper(filePath, dataType))
     with open(csvFile, 'r') as csv_file:
         csvReader = csv.DictReader(csv_file)
-
+        # write csv based on headers in fieldnames
         with open(f"new_{csvFile}", 'w') as newFile:
             fieldnames = fieldNamesList
+            # extrasaction ignores headers not included in fieldnames
             csvWriter = csv.DictWriter(
                 newFile, fieldnames=fieldnames, extrasaction='ignore')
             csvWriter.writeheader()
@@ -18,6 +20,7 @@ def importData(filePath, dataList, fieldNamesList, csvFile, results=[]):
     return results
 
 
+# helper function based on XML header
 def dataHelper(file, dataType, results=[]):
     # elementTree obj
     tree = ET.parse(file)
