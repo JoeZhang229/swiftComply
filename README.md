@@ -4,9 +4,10 @@ In Python Version 3.9.4+, run the dataVariables.py file to run the script, which
 
 **all arguments are accepted as strings**
 
-```importData``` is the main function, its main arguments are:
+```importData``` is the main function. Its main, required arguments are:
 
 ```(importFilePath, importDataList, fieldNamesList, csvFilePath)```
+
 
 
 Choose the XML elements you want to export from the XML in the importDataList variable as a string in the list structure, and corresponding fieldnames in the fieldNamesList variable in the same format.
