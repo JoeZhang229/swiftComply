@@ -13,7 +13,7 @@ Choose the XML elements you want to export from the XML in the importDataList va
 
 **IMPORTANT - order matters for both importDataList and fieldNamesList as they correspond to each other**
 
-## Examples:
+## Examples
 
 I want to import Facility ID and Facility Account Number in the XML file.
 
